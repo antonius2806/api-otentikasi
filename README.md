@@ -17,3 +17,9 @@ api otentikasi
 3. http://localhost:8005/users endpoint untuk mengambil daftar pengguna /GET
 4. http://localhost:8005/users/me endpoint untuk mengambil data pengguna berdasarkan token  /GET
 
+# Configuration
+1. Buat username 'root' dan password ''
+2. Buat database dengan nama 'jwtduazsolusi'
+
+# Run
+java -jar /target/auth-api-0.0.1-SNAPSHOT.jar
