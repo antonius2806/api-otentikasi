@@ -4,8 +4,8 @@ api otentikasi
 
 
 # Development
-Java 11
+Java 17
 Maven
 Spring boot
-postgresql
+mysql
 
