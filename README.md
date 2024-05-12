@@ -4,8 +4,8 @@ api otentikasi
 
 
 # Development
-Java 17
-Maven
-Spring boot
-mysql
+1.  Java 17
+2.  Maven
+3.  Spring boot
+4.  mysql
 
